@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "email": "gojo@anime.fr",
+      "password": "$2a$10$qzLqISiNBdCLMhy8u.yte.0kn25M8fjyIWDN22kFn5FpwftGXjemu",
+      "pseudo": "Gojo",
+      "urlImgProfil": "https://pbs.twimg.com/media/EvRXzj_WgAIiUJV?format=jpg&name=medium",
+      "id": 1
+    },
+    {
+      "email": "admin@vuejs.fr",
+      "password": "$2a$10$qzLqISiNBdCLMhy8u.yte.0kn25M8fjyIWDN22kFn5FpwftGXjemu",
+      "pseudo": "Sakura",
+      "urlImgProfil": " https://64.media.tumblr.com/e820cbf7fafd9952bca326fcbc304004/c76e5bf7e155e26c-18/s400x600/484946418f466afabc7fbe245587a84a79fb4eea.jpg",
+      "id": 2
+    }   
+
+  ],
+  "articles": [  {
+    "contenu": "Email : admin@vuejs.fr / password : 123456 / Il est également possible de se créer un compte.",
+    "urlImgArticle": "https://i.redd.it/7xc6zkvh0zc91.jpg",
+    "like": 3,
+    "pseudo": "Gojo",
+    "usrImg": "https://pbs.twimg.com/media/EvRXzj_WgAIiUJV?format=jpg&name=medium",
+    "date": 1670677822481,
+    "commentaires": [
+      {
+      "id": 1 ,
+      "contenu" : "Pour ce faire cliquer surcréer un profil sur le menu à gauche",
+      "pseudo" : "Gojo" ,
+      "dt" : 1670677823452
+      },
+      {
+        "id": 1 ,
+        "contenu" : "Ensuite il faut se connecter en appuyant sur connexion",
+        "pseudo" : "Gojo" ,
+        "dt" : 1670677823452
+        }
+      ],
+    "id": 1
+  }, 
+    {
+      "contenu": "Les inscriptions pour l'École d'Exorcisme de Tokyo sont dorénavant ouvertes",
+      "urlImgArticle": "https://i.pinimg.com/originals/a3/5d/01/a35d01bde94164b835342a973f7d4658.jpg",
+      "like": 60,
+      "pseudo": "Gojo",
+      "usrImg": "https://pbs.twimg.com/media/EvRXzj_WgAIiUJV?format=jpg&name=medium",
+      "date": 1670677823250,
+      "commentaires": [ {
+        "id": 1 ,
+        "contenu" : "j'espère que cette année je serais pas avec les deux loosers",
+        "pseudo" : "Yuji Itadori" ,
+        "dt" : 1670677823452
+        },
+        {
+          "id": 2 ,
+          "contenu" : "Yuji, à la rentrée tu es .....",
+          "pseudo" : "Nobara Kugisaki" ,
+          "dt" : 1670677823452
+          }
+        ],
+      "id": 2
+    }
+  ]
+}
